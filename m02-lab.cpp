@@ -1,14 +1,14 @@
-// Program     : m01-lab.cpp
-// Author      : Jade Fox
-// Due Date    : Feb 5, 2023
-// Description : A modular program that asks the user
-//               to input the monthly costs for the
-//               following expenses incurred from
-//               opperating their automobile:
-//               loan payment, insurance,
-//               gas, oil, tires, and maintenance.
-//               Display the total monthly and annual costs
-//               of these expenses
+// Program    : m01-lab.cpp
+// Author     : Jade Fox
+// Due Date   : Feb 5, 2023
+// Description: A modular program that asks the user
+//              to input the monthly costs for the
+//              following expenses incurred from
+//              opperating their automobile:
+//              loan payment, insurance,
+//              gas, oil, tires, and maintenance.
+//              Display the total monthly and annual costs
+//              of these expenses
 
 // Begin pseudocode
 /*

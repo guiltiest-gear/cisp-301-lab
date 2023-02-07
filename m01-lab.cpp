@@ -1,12 +1,12 @@
-// Program     : m01-lab.cpp
-// Author      : Jade Fox
-// Due Date    : Feb 5, 2023
-// Description : Calculate the amount of money Joe paid for his stocks,
-//                the commission paid to his broker for the buy,
-//                the amount the money he sold the stock for,
-//                the commission paid to his broker for the sell,
-//                and the amount of profit or loss after Joe sold
-//                the stock and paid his broker (both times).
+// Program    : m01-lab.cpp
+// Author     : Jade Fox
+// Due Date   : Feb 5, 2023
+// Description: Calculate the amount of money Joe paid for his stocks,
+//              the commission paid to his broker for the buy,
+//              the amount the money he sold the stock for,
+//              the commission paid to his broker for the sell,
+//              and the amount of profit or loss after Joe sold
+//              the stock and paid his broker (both times).
 
 // Begin pseudocode
 /*
