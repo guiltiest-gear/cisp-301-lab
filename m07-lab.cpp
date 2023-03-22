@@ -1,4 +1,4 @@
-// Program    : m06-lab.cpp
+// Program    : m07-lab.cpp
 // Author     : Jade Fox
 // Due Date   : Mar 26, 2023
 // Description: Design a program that lets the user  enter the total rainfall
