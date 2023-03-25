@@ -72,9 +72,9 @@ void sort() {
     for (int i = 0; i < length; i++) {
         for (int j = i + 1; j < length; j++) {
             if (names[i] > names[j]) {
-               temp = names[i];
-               names[i] = names[j];
-               names[j] = temp;
+                temp = names[i];
+                names[i] = names[j];
+                names[j] = temp;
             }
         }
     }
