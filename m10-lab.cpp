@@ -5,8 +5,27 @@
 //              Save the file as Numbers.dat. Design a program that calculates
 //              the average of all the numbers stored in the file.
 // Begin pseudocode
-
 /*
+Declare Integer total = 0
+
+Module read_and_write()
+    Declare Integer nums = 0
+    Read "Numbers.dat"
+    While (Set "Numbers.dat" = nums)
+        Set total = total + nums
+    End While
+    Close "Numbers.dat"
+End Module
+
+Function average_nums()
+    Declare Real average = total / 30.0
+    Return average
+End Function
+
+Module main()
+    Call read_and_write()
+    Display Call average_nums()
+End Module
 */
 // End pseudocode
 
